@@ -14,8 +14,8 @@ En este portafolio, encontrarás evidencia de mi capacidad para comprender, impl
 ¡Bienvenido a mi mundo de machine learning!
 
 Algunos de los diferentes proyectos que puedes encontrar en este repositorio:
-- https://github.com/Cdogonza/portafolio_Machine_Learning/tree/main/Projects/UT1
+- [Unidad didactica 1] (https://github.com/Cdogonza/portafolio_Machine_Learning/tree/main/Projects/UT1)
 
-- https://github.com/Cdogonza/portafolio_Machine_Learning/tree/main/Projects/UT2
+- [Unidad didactica 2] (https://github.com/Cdogonza/portafolio_Machine_Learning/tree/main/Projects/UT2)
 
-- https://github.com/Cdogonza/portafolio_Machine_Learning/tree/main/Projects/UT3
+- [Unidad didactica 3] (https://github.com/Cdogonza/portafolio_Machine_Learning/tree/main/Projects/UT3)
