@@ -12,3 +12,10 @@ A través de ejemplos concretos, se podrán apreciar diferentes tecnicas y algor
 En este portafolio, encontrarás evidencia de mi capacidad para comprender, implementar y mejorar modelos de machine learning, así como mi dedicación para seguir aprendiendo y creciendo en este  campo.
 
 ¡Bienvenido a mi mundo de machine learning!
+
+Algunos de los diferentes proyectos que puedes encontrar en este repositorio:
+- https://github.com/Cdogonza/portafolio_Machine_Learning/tree/main/Projects/UT1
+
+- https://github.com/Cdogonza/portafolio_Machine_Learning/tree/main/Projects/UT2
+
+- https://github.com/Cdogonza/portafolio_Machine_Learning/tree/main/Projects/UT3
