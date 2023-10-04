@@ -1,4 +1,4 @@
-# portafolio_Machine_Learning
+# Prtafolio de Machine Learning
 ### Autor: Gonzalo Paz
 
 ## CONTENIDO
